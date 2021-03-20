@@ -1,0 +1,15 @@
+{
+  "short_name": "Dashboard and Charts",
+  "name": "Dashboard and Charts",
+  "icons": [
+    {
+      "src": "icon-ico.png",
+      "sizes": "60x60",
+      "type": "image/x-icon"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

@@ -1,0 +1,27 @@
+[
+    {
+        "value": 100,
+        "name": "Awarenwss",
+        "fill": "#8884d8"
+    },
+    {
+        "value": 80,
+        "name": "Interest",
+        "fill": "#83a6ed"
+    },
+    {
+        "value": 50,
+        "name": "Consideration",
+        "fill": "#8dd1e1"
+    },
+    {
+        "value": 40,
+        "name": "Desicion",
+        "fill": "#82ca9d"
+    },
+    {
+        "value": 26,
+        "name": "Action",
+        "fill": "#a4de6c"
+    }
+]
